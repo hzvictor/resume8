@@ -16,9 +16,9 @@
 title: Zhen Hou
 email:
 description: >-
-  This is a multi-line description that will be folded.
+  "This is a multi-line description that will be folded.
   The greater than symbol (>) preserves line breaks
-  but removes leading spaces.
+  but removes leading spaces."
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
