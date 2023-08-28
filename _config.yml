@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Belle Li
-email:
+email: li4808@purdue.edu
 description: >-
   "This is a multi-line description that will be folded.
   The greater than symbol (>) preserves line breaks
