@@ -60,23 +60,23 @@ plugins:
 author:
   name   : "Zhen Hou"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D Student
-Learning Design & Technology
+  bio    : "Ph.D Student \n
+Learning Design & Technology \n
 Purdue University
 "
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fas fa-fw fa-map-marker-alt"
+      # url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:li4808@purdue.edu"
+    - label: "Google Scholar"
+      icon: "fa fa-graduation-cap"
+      url: "https://scholar-google-com.proxyiub.uits.iu.edu/citations?hl=en&user=OjrrBnYAAAAJ"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/belle-li-198a72180/"
 
 footer:
   links:
