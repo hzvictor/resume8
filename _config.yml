@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Zhen Hou
+title: Belle Li
 email:
 description: >-
   "This is a multi-line description that will be folded.
@@ -58,13 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Zhen Hou"
+  name   : "Belle Li"
   avatar : "/assets/images/unnamed.jpg"
   bio    : "Ph.D Student "
   links:
     - label: "West Lafayette, IN"
       icon: "fas fa-fw fa-map-marker-alt"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:li4808@purdue.edu"
