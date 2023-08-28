@@ -60,10 +60,9 @@ plugins:
 author:
   name   : "Zhen Hou"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : >- "Ph.D Student \n
-Learning Design & Technology \n
-Purdue University
-"
+  bio    : "Ph.D Student "
+"Learning Design & Technology "
+" Purdue University"
   links:
     - label: "West Lafayette, IN"
       icon: "fas fa-fw fa-map-marker-alt"
