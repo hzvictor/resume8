@@ -60,9 +60,9 @@ plugins:
 author:
   name   : "Belle Li"
   avatar : "/assets/images/unnamed.jpg"
-  bio    :| "Ph.D Student \n
-  Ph.D Student\n
-  Ph.D Student
+  bio    : "Ph.D Student <br>
+  Learning Design & Technology<br>
+  Purdue University
   "
   links:
     - label: "West Lafayette, IN"
